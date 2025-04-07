@@ -30,33 +30,31 @@ GestuWave_HandWave is an AI-based application that enables users to control thei
    ```bash
    git clone https://github.com/gowthamgspatil/GestuWave_HandWave
    ```
-
 
 2. **Install Dependencies:** Navigate to the project directory and install the necessary packages:
 
    ```bash
    npm install
    ```
-
+
 
 3. **Start Development Version:** Launch the development environment for testing:
 
    ```bash
    npm run dev
    ```
-
 
 4. **Build the Application:** For production builds, use:
 
    ```bash
    npm build      # Builds for the current operating system
    ```
-
+
 
    ```bash
    npm build-all  # Builds for all supported operating systems (macOS only)
    ```
-
+
 
 **Development Environment Setup:**
 
@@ -67,39 +65,43 @@ To set up the development environment:
    ```bash
    git clone https://github.com/gowthamgspatil/GestuWave_HandWave
    ```
-
+
 
 2. **Install Dependencies:** Navigate to the project directory and install necessary packages:
 
    ```bash
    npm install
    ```
-
+
 
 3. **Start Development Version:** Launch the development environment:
 
    ```bash
    npm run dev
    ```
-
+
 
 4. **Build the Application:** For production builds:
 
    ```bash
    npm build      # Builds for the current operating system
    ```
-
+
 
    ```bash
    npm build-all  # Builds for all supported operating systems (macOS only)
    ```
-
+   
+
+![#](https://github.com/user-attachments/assets/45bf7400-13bf-4c5f-bb27-79fcbd38cf88)
+
+
 
 **Development and Contributions:**
 
-Developers interested in contributing can access the project's codebase on GitHub. The repository includes instructions for setting up the development environment, contributing guidelines, and information about the project's authors and contributors.
+Developers interested in contributing can access the project's codebase on GitHub. The repository includes instructions for setting up the development environment, contributing guidelines, and information about the project's authors and contributors.
 
-**Note:** Ensure that your system's camera is properly set up and accessible for the application to function correctly. 
+**Note:** Ensure that your system's camera is properly set up and accessible for the application to function correctly.
 
 FINAL EXPECTED OUTPUT
 ![1](https://github.com/user-attachments/assets/e064b6fb-e878-44b4-a26a-d999a929a232)
