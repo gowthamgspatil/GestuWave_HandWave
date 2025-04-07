@@ -100,3 +100,15 @@ To set up the development environment:
 Developers interested in contributing can access the project's codebase on GitHub. The repository includes instructions for setting up the development environment, contributing guidelines, and information about the project's authors and contributors.
 
 **Note:** Ensure that your system's camera is properly set up and accessible for the application to function correctly. 
+
+FINAL EXPECTED OUTPUT
+![1](https://github.com/user-attachments/assets/e064b6fb-e878-44b4-a26a-d999a929a232)
+![4](https://github.com/user-attachments/assets/4084161a-1b62-4322-8f17-bd3520dc2030)
+![3](https://github.com/user-attachments/assets/3873f155-b9af-4e46-9b6c-9aec08bbb000)
+![2](https://github.com/user-attachments/assets/5a45aaf8-22ac-4159-82e4-903c80bbf3b6)
+![1](https://github.com/user-attachments/assets/a8c796d8-7373-4b33-90ff-adc0df2695fd)
+![8](https://github.com/user-attachments/assets/dc9a10f0-1180-4a3e-baa7-821bd9499b98)
+![7](https://github.com/user-attachments/assets/85fb972a-41ab-40c1-8b2f-c6053cd61354)
+![6](https://github.com/user-attachments/assets/5f1c2f67-9ba4-4fc7-8ff5-9efc385c4792)
+![5](https://github.com/user-attachments/assets/5ca5d375-cdb3-42ee-907a-2e7baec5d88f)
+
